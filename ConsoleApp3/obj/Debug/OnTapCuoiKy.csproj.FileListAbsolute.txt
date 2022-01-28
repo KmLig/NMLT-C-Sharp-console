@@ -1,0 +1,7 @@
+D:\2021\HK1\Nhập môn lập trình\NMLT_2021\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+D:\2021\HK1\Nhập môn lập trình\NMLT_2021\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+D:\2021\HK1\Nhập môn lập trình\NMLT_2021\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+D:\2021\HK1\Nhập môn lập trình\NMLT_2021\ConsoleApp3\obj\Debug\OnTapCuoiKy.csproj.CoreCompileInputs.cache
+D:\2021\HK1\Nhập môn lập trình\NMLT_2021\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+D:\2021\HK1\Nhập môn lập trình\NMLT_2021\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
+D:\2021\HK1\Nhập môn lập trình\NMLT_2021\ConsoleApp3\obj\Debug\OnTapCuoiKy.csproj.AssemblyReference.cache

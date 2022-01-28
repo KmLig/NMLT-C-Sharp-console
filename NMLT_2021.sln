@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NMLT_2021", "NMLT_2021\NMLT_2021.csproj", "{861D70A5-4873-4935-A8DF-074917735B30}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaTran", "ConsoleApp2\MaTran.csproj", "{B55D7912-452E-4F46-BBB6-0BFD3B999D3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnTapCuoiKy", "ConsoleApp3\OnTapCuoiKy.csproj", "{4E38726A-9085-48B4-8981-9A95B4E84E96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{861D70A5-4873-4935-A8DF-074917735B30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{861D70A5-4873-4935-A8DF-074917735B30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{861D70A5-4873-4935-A8DF-074917735B30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{861D70A5-4873-4935-A8DF-074917735B30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B55D7912-452E-4F46-BBB6-0BFD3B999D3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B55D7912-452E-4F46-BBB6-0BFD3B999D3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B55D7912-452E-4F46-BBB6-0BFD3B999D3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B55D7912-452E-4F46-BBB6-0BFD3B999D3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E38726A-9085-48B4-8981-9A95B4E84E96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E38726A-9085-48B4-8981-9A95B4E84E96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E38726A-9085-48B4-8981-9A95B4E84E96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E38726A-9085-48B4-8981-9A95B4E84E96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1DF97737-B573-4021-9B17-A9DC446F9013}
+	EndGlobalSection
+EndGlobal
